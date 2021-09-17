@@ -1,7 +1,7 @@
 Lane Detection
 ==
 
-inal project codes for Computer vision in spring semester at NYCU. This is a basic lane detection using TuSimple dataset
+Final project codes for Computer vision in the spring semester at NYCU. This is a basic lane detection using TuSimple dataset.
 
 ## 109-2 CV Final
 * Zhi-Yi Chin joycenerd.cs09@nycu.edu.tw
